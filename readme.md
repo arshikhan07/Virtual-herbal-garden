@@ -102,11 +102,13 @@ cd virtual-herbal-garden
 ## 📷 Preview
 
 ### Main interface
-![Main interface ](image.png)
+![Main interface](images/base4.png)
+
 ### Lab interface
-![Lab interface](image-2.png)
+![Lab interface](images/blogPage.png)
+
 ### Ayurveda garden
-![Ayurveda garden](image-1.png)
+![Ayurveda garden](images/AYURVEDA.png)
 
 ---
 
